@@ -1,5 +1,4 @@
-// import { defineConfig } from '@umijs/max';
-import { defineConfig } from 'umi';
+import { defineConfig } from '@umijs/max';
 
 console.log('hi, prod');
 export default defineConfig({
